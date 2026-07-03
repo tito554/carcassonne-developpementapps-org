@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carcassonne.developpementapps.org/sitemap.xml
